@@ -1,8 +1,12 @@
 .nav{
-  background-color:blue;
+  background-color: #143a70;
+  padding: 2% 3% 5% 3% ;
 }
-menu{
-  text-align: left;
-  display: inline;
-  color:white;
+.nav a{
+float: right;
+text-align: center;
+text-decoration: none;
+color : #fcfdff;
+font-size: 125%;
+padding: 1%
 }
